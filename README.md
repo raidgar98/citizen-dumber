@@ -3,5 +3,5 @@ This mod allows you to set what percentage of the population should be at a give
 
 # resources
 
-https://community.simtropolis.com/forums/topic/73404-modding-tutorial-0-your-first-mod/
-https://skylines.paradoxwikis.com/Modding_API
+- https://community.simtropolis.com/forums/topic/73404-modding-tutorial-0-your-first-mod/
+- https://skylines.paradoxwikis.com/Modding_API
